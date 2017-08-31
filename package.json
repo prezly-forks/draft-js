@@ -32,11 +32,9 @@
   "dependencies": {
     "fbjs": "^0.8.7",
     "immutable": "~3.7.4",
-    "object-assign": "^4.1.0"
-  },
-  "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0-rc",
-    "react-dom": "^0.14.0 || ^15.0.0-rc"
+    "object-assign": "^4.1.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.8.0",
